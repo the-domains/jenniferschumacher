@@ -1,0 +1,28 @@
+name: JenniferSchumacher
+favicon: null
+layout_spectrum: 0.1773063731379807
+typography_spectrum: 0.8574719212483615
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5558258958626539
+  lightness: 0.676728683989495
+  saturation: 0.9928402001969516
+  rhythmicContrast: 0.141469408525154
+purpose: []
