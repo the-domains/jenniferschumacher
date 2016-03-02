@@ -1,6 +1,6 @@
 name: JenniferSchumacher
 favicon: null
-layout_spectrum: 0.1773063731379807
+layout_spectrum: 0.50938
 typography_spectrum: 0.8574719212483615
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.5558258958626539
+  brandStrength: 0.5
   lightness: 0.676728683989495
   saturation: 0.9928402001969516
   rhythmicContrast: 0.141469408525154
